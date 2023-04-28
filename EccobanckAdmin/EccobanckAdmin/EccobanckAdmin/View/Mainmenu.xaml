@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EccobanckAdmin.View.Mainmenu"
+             xmlns:degradado="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView">
+    <Grid RowDefinitions="300, 130, 40, *"
+          BackgroundColor="#E9EDF3">
+        
+        <degradado:PancakeView BackgroundColor="White"
+                               CornerRadius="0, 0, 30, 30">
+            <Frame Margin="15,30,15,30"
+                   CornerRadius="15"
+                   HasShadow="False">
+                <Frame.Background>
+                    <LinearGradientBrush EndPoint="1,0">
+                        <GradientStop Color="#11ffbd" Offset="0.1"/>
+                        <GradientStop Color="#D6F4E7" Offset="1.0"/>
+                    </LinearGradientBrush>
+                </Frame.Background>
+
+                <StackLayout>
+                    <Label Text="Administrador"
+                           FontSize="25"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center"/>
+
+                    <Grid ColumnDefinitions="*,*">
+                        <StackLayout VerticalOptions="Center">
+                            <Image Source="https://i.ibb.co/HP6zxPD/patron-de-bloqueo.png"
+                                   HeightRequest="30"
+                                   HorizontalOptions="Start"/>
+
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Eco"
+                                       CharacterSpacing="10"
+                                       FontSize="18"
+                                       FontAttributes="Bold"
+                                       VerticalOptions="Center">
+                                </Label>
+
+                                <Button Text="Bank"
+                                        BackgroundColor="#D0F2D8"
+                                        CornerRadius="15"
+                                        FontAttributes="Bold"
+                                        TextColor="#29CE69"
+                                        FontSize="20"></Button>
+                            </StackLayout>
+                        </StackLayout>
+
+                        <Image Grid.Column="1"
+                               Source="https://i.ibb.co/CQBzvm8/energia-verde.png"/>
+
+                    </Grid>
+                </StackLayout>
+            </Frame>
+        </degradado:PancakeView>
+
+        <Frame Grid.Row="1"
+               CornerRadius="20"
+               HasShadow="False"
+               Margin="15,15,15,0"
+               Padding="10">
+
+            <Grid ColumnDefinitions="*,*"
+                  VerticalOptions="Center">
+                <StackLayout>
+                    <Frame HasShadow="False"
+                           Padding="0"
+                           BackgroundColor="#EEF1FD"
+                           CornerRadius="25"
+                           HorizontalOptions="Center">
+                        <Image Source="https://i.ibb.co/3YLByPw/carisma.png"
+                               HeightRequest="35"
+                               Margin="10"></Image>
+                    </Frame>
+                    <Label Text="CONFIGURAR"
+                           HorizontalOptions="Center"
+                           TextColor="Black"
+                           FontSize="12"
+                           FontAttributes="Bold"
+                           CharacterSpacing="2"></Label>
+                </StackLayout>
+                <StackLayout Grid.Column="1">
+                    <Frame HasShadow="False"
+                           Padding="0"
+                           BackgroundColor="#EBFAF9"
+                           CornerRadius="25"
+                           HorizontalOptions="Center">
+                        <Image Source="https://i.ibb.co/W5DJrTh/punto-de-encuentro.png"
+                               HeightRequest="35"
+                               Margin="10"></Image>
+                    </Frame>
+                    <Label Text="ASIGNACIONES"
+                           HorizontalOptions="Center"
+                           TextColor="Black"
+                           FontSize="12"
+                           FontAttributes="Bold"
+                           CharacterSpacing="2"></Label>
+                </StackLayout>
+            </Grid>
+            
+        </Frame>
+
+        <Label Grid.Row="2"
+               Text="Solicitudes de recojo"
+               FontSize="18"
+               FontAttributes="Bold"
+               TextColor="Black"
+               Margin="16,0,0,0"
+               VerticalOptions="Center"></Label>
+        
+        <Frame Grid.Row="3"
+               CornerRadius="20"
+               Margin="15,0,5,0"
+               HasShadow="False"></Frame>
+        
+        <CollectionView>
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical"
+                                 Span="1"
+                                 VerticalItemSpacing="20"></GridItemsLayout>
+            </CollectionView.ItemsLayout>
+            
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame>
+                        
+                    </Frame>        
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+            
+        
+    </Grid>
+</ContentPage>

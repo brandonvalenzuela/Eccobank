@@ -1,0 +1,16 @@
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\bin\Debug\netstandard2.0\EccobanckAdmin.deps.json
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\bin\Debug\netstandard2.0\EccobanckAdmin.dll
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\bin\Debug\netstandard2.0\EccobanckAdmin.pdb
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.csproj.AssemblyReference.cache
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\View\Config\MenuConfig.xaml.g.cs
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\View\Mainmenu.xaml.g.cs
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.AssemblyInfoInputs.cache
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.AssemblyInfo.cs
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.csproj.CoreCompileInputs.cache
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.dll
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\refint\EccobanckAdmin.dll
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\EccobanckAdmin.pdb
+C:\Users\japo2\Desktop\Proyectos\Proyectos Xamarin\Eccobanck\EccobanckAdmin\EccobanckAdmin\EccobanckAdmin\obj\Debug\netstandard2.0\ref\EccobanckAdmin.dll
