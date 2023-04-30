@@ -79,6 +79,9 @@
                            FontSize="12"
                            FontAttributes="Bold"
                            CharacterSpacing="2"></Label>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Navegarmenuconfigcommand }"/>
+                    </StackLayout.GestureRecognizers>
                 </StackLayout>
                 <StackLayout Grid.Column="1">
                     <Frame HasShadow="False"

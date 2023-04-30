@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using EccobanckAdmin.ViewModel;
 
 namespace EccobanckAdmin.View
 {
@@ -14,6 +15,7 @@ namespace EccobanckAdmin.View
         public Mainmenu()
         {
             InitializeComponent();
+            BindingContext = new VMmainmenu(Navigation);
         }
     }
 }

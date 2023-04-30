@@ -20,7 +20,6 @@
     <Folder Include="Model\" />
     <Folder Include="Data\" />
     <Folder Include="Links\" />
-    <Folder Include="ViewModel\" />
   </ItemGroup>
 
   <ItemGroup>
